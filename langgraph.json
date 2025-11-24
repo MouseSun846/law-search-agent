@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "contract": "./contract.py:make_graph"
+  }
+}

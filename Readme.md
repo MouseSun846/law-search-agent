@@ -2,7 +2,7 @@
 
 本项目是一个基于 `LangGraph` 和 `deepagents` 构建的智能法律检索系统。它采用多 Agent 协作的模式，旨在根据用户的法律问题，精准地从本地法律文档库中检索、评估并匹配最相关的法律条文。
 
-UI 展示界面采用 [deep-agents-ui](https://github.com/ys-L/deep-agents-ui)。
+UI 展示界面采用 [deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui)。
 
 ## ✨ 功能特性
 

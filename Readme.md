@@ -91,7 +91,7 @@ langgraph dev --host 0.0.0.0 --port 22204
 
 ### 3. 连接 UI 界面
 
-1.  启动 [deep-agents-ui](https://github.com/ys-L/deep-agents-ui) 前端项目。
+1.  启动 [deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui) 前端项目。
 2.  在 UI 的配置界面，将 Agent 的后端地址指向 `http://localhost:22204`。
 3.  开始在 UI 界面上提问和交互。
 
